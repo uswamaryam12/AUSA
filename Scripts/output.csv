@@ -1,0 +1,1001 @@
+Name,Skin Tone,Initial Continent,Initial Climate,Initial Radiations,Initial Oxygen,Initial Nitrogen,Final Continent,Final Climate,Final Radiations,Final Oxygen,Final Nitrogen,Duration,Impact
+person1,1,Asia,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,10,0
+person2,2,Asia,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,6,0
+person3,3,Asia,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,9,0
+person4,4,Asia,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,0
+person5,5,Asia,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,0
+person6,6,Asia,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,0
+person7,1,Asia,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,2,0
+person8,2,Asia,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,2,0
+person9,3,Asia,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,6,0
+person10,4,Asia,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,7,0
+person11,5,Asia,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,5,-1
+person12,6,Asia,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,6,-1
+person13,1,Asia,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,4,-1
+person14,2,Asia,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person15,3,Asia,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,7,-2
+person16,4,Asia,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,3,-1
+person17,5,Asia,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-2
+person18,6,Asia,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,8,-3
+person19,1,Asia,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,2,-2
+person20,2,Asia,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-3
+person21,3,Asia,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,5,-2
+person22,4,Asia,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,5,-2
+person23,5,Asia,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-2
+person24,6,Asia,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-2
+person25,1,Asia,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,4,-1
+person26,2,Asia,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,10,-1
+person27,3,Asia,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person28,4,Asia,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,7,-1
+person29,5,Asia,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,-2
+person30,6,Asia,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,-2
+person31,1,Asia,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,0
+person32,2,Asia,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person33,3,Asia,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,0
+person34,4,Asia,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person35,5,Asia,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,0
+person36,1,Asia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,3,0
+person37,2,Asia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,3,0
+person38,3,Asia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,7,-2
+person39,4,Asia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,-1
+person40,5,Asia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,0
+person41,6,Asia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,-2
+person42,1,Asia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,0
+person43,2,Asia,Temperate,2,0.79,0.2,North America,Cold,1,0.79,0.2,7,-2
+person44,3,Asia,Temperate,2,0.79,0.2,North America,Cold,1,0.79,0.2,3,0
+person45,4,Asia,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,7,-2
+person46,5,Asia,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,3,0
+person47,6,Asia,Temperate,2,0.79,0.2,North America,Arid,2,0.79,0.2,10,0
+person48,1,Asia,Temperate,2,0.79,0.2,North America,Arid,2,0.79,0.2,4,0
+person49,2,Asia,Temperate,2,0.79,0.2,North America,Tropical,3,0.79,0.2,6,-1
+person50,3,Asia,Temperate,2,0.79,0.2,South America,Temperate,2,0.79,0.2,8,0
+person51,4,Asia,Temperate,2,0.79,0.2,South America,Temperate,2,0.79,0.2,4,0
+person52,5,Asia,Temperate,2,0.79,0.2,South America,Arid,3,0.79,0.2,10,-2
+person53,6,Asia,Temperate,2,0.79,0.2,South America,Arid,3,0.79,0.2,7,-2
+person54,1,Asia,Temperate,2,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-1
+person55,2,Asia,Temperate,2,0.79,0.2,South America,Tropical,4,0.79,0.2,3,-1
+person56,3,Asia,Temperate,2,0.79,0.2,South America,Tropical,4,0.79,0.2,9,-2
+person57,4,Asia,Temperate,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,8,0
+person58,5,Asia,Temperate,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,5,0
+person59,6,Asia,Temperate,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,0
+person60,1,Asia,Temperate,2,0.79,0.2,Australia,Arid,2,0.79,0.2,4,0
+person61,2,Asia,Temperate,2,0.79,0.2,Australia,Arid,2,0.79,0.2,1,0
+person62,3,Asia,Temperate,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,10,-2
+person63,4,Asia,Temperate,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,9,-2
+person64,5,Asia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,1,-1
+person65,6,Asia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-2
+person66,6,Asia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,2,-1
+person67,1,Asia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-1
+person68,2,Asia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-1
+person69,3,Asia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,5,-2
+person70,4,Asia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-2
+person71,5,Asia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,-2
+person72,6,Asia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,-1
+person73,1,Asia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,-2
+person74,2,Asia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,-1
+person75,3,Asia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,-1
+person76,1,Asia,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,8,2
+person77,2,Asia,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,9,2
+person78,3,Asia,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,7,2
+person79,4,Asia,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,8,2
+person80,5,Asia,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,1
+person81,6,Asia,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,1
+person82,1,Asia,Arid,3,0.79,0.2,North America,Cold,1,0.79,0.2,1,1
+person83,2,Asia,Arid,3,0.79,0.2,North America,Cold,1,0.79,0.2,2,1
+person84,3,Asia,Arid,3,0.79,0.2,North America,Temperate,1,0.79,0.2,10,2
+person85,4,Asia,Arid,3,0.79,0.2,North America,Temperate,1,0.79,0.2,7,2
+person86,5,Asia,Arid,3,0.79,0.2,North America,Arid,2,0.79,0.2,7,1
+person87,6,Asia,Arid,3,0.79,0.2,North America,Tropical,3,0.79,0.2,2,0
+person88,1,Asia,Arid,3,0.79,0.2,South America,Temperate,2,0.79,0.2,4,1
+person89,2,Asia,Arid,3,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person90,3,Asia,Arid,3,0.79,0.2,South America,Arid,3,0.79,0.2,7,0
+person91,4,Asia,Arid,3,0.79,0.2,South America,Arid,3,0.79,0.2,1,0
+person92,5,Asia,Arid,3,0.79,0.2,South America,Tropical,4,0.79,0.2,3,0
+person93,6,Asia,Arid,3,0.79,0.2,South America,Tropical,4,0.79,0.2,2,0
+person94,1,Asia,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,6,-1
+person95,2,Asia,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,5,-1
+person96,3,Asia,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,2,0
+person97,4,Asia,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-1
+person98,5,Asia,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,0
+person99,6,Asia,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-1
+person100,1,Asia,Arid,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,0
+person101,2,Asia,Arid,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,10,1
+person102,3,Asia,Arid,3,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person103,4,Asia,Arid,3,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person104,5,Asia,Arid,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,9,0
+person105,6,Asia,Arid,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,1,0
+person106,1,Asia,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person107,2,Asia,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,1
+person108,3,Asia,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,1
+person109,4,Asia,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person110,5,Asia,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person111,1,Asia,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,4,2
+person112,2,Asia,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,5,2
+person113,3,Asia,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,4,2
+person114,4,Asia,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,2
+person115,5,Asia,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,2
+person116,6,Asia,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,1
+person117,1,Asia,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,2
+person118,2,Asia,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,10,2
+person119,3,Asia,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,6,2
+person120,4,Asia,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,4,2
+person121,5,Asia,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,4,2
+person122,6,Asia,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,1,1
+person123,1,Asia,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,10,2
+person124,2,Asia,Tropical,4,0.79,0.2,North America,Tropical,3,0.79,0.2,3,0
+person125,3,Asia,Tropical,4,0.79,0.2,South America,Temperate,2,0.79,0.2,4,1
+person126,4,Asia,Tropical,4,0.79,0.2,South America,Temperate,2,0.79,0.2,5,1
+person127,5,Asia,Tropical,4,0.79,0.2,South America,Arid,3,0.79,0.2,10,1
+person128,6,Asia,Tropical,4,0.79,0.2,South America,Arid,3,0.79,0.2,2,0
+person129,1,Asia,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,9,0
+person130,2,Asia,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,4,0
+person131,3,Asia,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,3,0
+person132,4,Asia,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,10,2
+person133,5,Asia,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,6,1
+person134,6,Asia,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,9,2
+person135,1,Asia,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,6,1
+person136,2,Asia,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,2,1
+person137,3,Asia,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,10,1
+person138,4,Asia,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,1
+person139,5,Asia,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,9,0
+person140,6,Asia,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,7,0
+person141,6,Asia,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,7,0
+person142,1,Asia,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,0
+person143,2,Asia,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,0
+person144,3,Asia,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,0
+person145,4,Asia,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,0
+person146,5,Asia,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,2
+person147,6,Asia,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,2
+person148,1,Asia,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person149,2,Asia,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,1
+person150,3,Asia,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person151,1,Africa,Arid,4,0.79,0.2,Asia,Cold,1,0.79,0.2,3,1
+person152,2,Africa,Arid,4,0.79,0.2,Asia,Cold,1,0.79,0.2,3,1
+person153,3,Africa,Arid,4,0.79,0.2,Asia,Cold,1,0.79,0.2,5,2
+person154,4,Africa,Arid,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,4,1
+person155,5,Africa,Arid,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,9,2
+person156,6,Africa,Arid,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,3,1
+person157,1,Africa,Arid,4,0.79,0.2,Asia,Arid,3,0.79,0.2,8,1
+person158,2,Africa,Arid,4,0.79,0.2,Asia,Arid,3,0.79,0.2,6,1
+person159,3,Africa,Arid,4,0.79,0.2,Asia,Arid,3,0.79,0.2,7,1
+person160,4,Africa,Arid,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,6,0
+person161,5,Africa,Arid,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,0
+person162,6,Africa,Arid,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,1,0
+person163,1,Africa,Arid,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,0
+person164,2,Africa,Arid,4,0.79,0.2,Europe,Cold,1,0.79,0.2,7,2
+person165,3,Africa,Arid,4,0.79,0.2,Europe,Cold,1,0.79,0.2,2,1
+person166,4,Africa,Arid,4,0.79,0.2,Europe,Cold,1,0.79,0.2,4,2
+person167,5,Africa,Arid,4,0.79,0.2,Europe,Cold,1,0.79,0.2,2,1
+person168,6,Africa,Arid,4,0.79,0.2,Europe,Cold,1,0.79,0.2,2,1
+person169,1,Africa,Arid,4,0.79,0.2,Europe,Cold,1,0.79,0.2,7,2
+person170,2,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,1
+person171,3,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,8,2
+person172,4,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,2
+person173,5,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,2
+person174,6,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,2
+person175,1,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,1
+person176,2,Africa,Arid,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,8,2
+person177,3,Africa,Arid,4,0.79,0.2,North America,Cold,1,0.79,0.2,4,2
+person178,4,Africa,Arid,4,0.79,0.2,North America,Cold,1,0.79,0.2,5,2
+person179,5,Africa,Arid,4,0.79,0.2,North America,Cold,1,0.79,0.2,10,2
+person180,6,Africa,Arid,4,0.79,0.2,North America,Temperate,1,0.79,0.2,7,2
+person181,1,Africa,Arid,4,0.79,0.2,North America,Temperate,1,0.79,0.2,2,1
+person182,2,Africa,Arid,4,0.79,0.2,North America,Temperate,1,0.79,0.2,6,2
+person183,3,Africa,Arid,4,0.79,0.2,North America,Temperate,1,0.79,0.2,6,2
+person184,4,Africa,Arid,4,0.79,0.2,North America,Arid,2,0.79,0.2,8,2
+person185,5,Africa,Arid,4,0.79,0.2,North America,Arid,2,0.79,0.2,7,2
+person186,6,Africa,Arid,4,0.79,0.2,North America,Arid,2,0.79,0.2,10,2
+person187,1,Africa,Arid,4,0.79,0.2,North America,Tropical,3,0.79,0.2,2,0
+person188,2,Africa,Arid,4,0.79,0.2,North America,Tropical,3,0.79,0.2,9,1
+person189,3,Africa,Arid,4,0.79,0.2,North America,Tropical,3,0.79,0.2,4,1
+person190,4,Africa,Arid,4,0.79,0.2,South America,Temperate,2,0.79,0.2,2,1
+person191,5,Africa,Arid,4,0.79,0.2,South America,Temperate,2,0.79,0.2,1,1
+person192,6,Africa,Arid,4,0.79,0.2,South America,Temperate,2,0.79,0.2,3,1
+person193,1,Africa,Arid,4,0.79,0.2,South America,Temperate,2,0.79,0.2,1,1
+person194,2,Africa,Arid,4,0.79,0.2,South America,Arid,3,0.79,0.2,7,1
+person195,3,Africa,Arid,4,0.79,0.2,South America,Arid,3,0.79,0.2,1,0
+person196,4,Africa,Arid,4,0.79,0.2,South America,Arid,3,0.79,0.2,5,1
+person197,5,Africa,Arid,4,0.79,0.2,South America,Arid,3,0.79,0.2,9,1
+person198,6,Africa,Arid,4,0.79,0.2,South America,Tropical,4,0.79,0.2,9,0
+person199,1,Africa,Arid,4,0.79,0.2,South America,Tropical,4,0.79,0.2,4,0
+person200,2,Africa,Arid,4,0.79,0.2,South America,Tropical,4,0.79,0.2,7,0
+person201,3,Africa,Arid,4,0.79,0.2,South America,Tropical,4,0.79,0.2,4,0
+person202,4,Africa,Arid,4,0.79,0.2,South America,Tropical,4,0.79,0.2,8,0
+person203,5,Africa,Arid,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,5,1
+person204,6,Africa,Arid,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,1,1
+person205,1,Africa,Arid,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,5,1
+person206,2,Africa,Arid,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,1
+person207,3,Africa,Arid,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,2
+person208,4,Africa,Arid,4,0.79,0.2,Australia,Arid,2,0.79,0.2,9,2
+person209,5,Africa,Arid,4,0.79,0.2,Australia,Arid,2,0.79,0.2,2,1
+person210,6,Africa,Arid,4,0.79,0.2,Australia,Arid,2,0.79,0.2,1,1
+person211,1,Africa,Arid,4,0.79,0.2,Australia,Arid,2,0.79,0.2,1,1
+person212,2,Africa,Arid,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,2,0
+person213,3,Africa,Arid,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,9,1
+person214,4,Africa,Arid,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,3,0
+person215,5,Africa,Arid,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,1,0
+person216,6,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,1
+person217,1,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person218,2,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,2
+person219,3,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,2
+person220,4,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,2
+person221,5,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person222,6,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person223,1,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person224,2,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,1
+person225,3,Africa,Arid,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,2
+person226,1,Africa,Tropical,4,0.79,0.2,Asia,Cold,1,0.79,0.2,10,2
+person227,2,Africa,Tropical,4,0.79,0.2,Asia,Cold,1,0.79,0.2,6,2
+person228,3,Africa,Tropical,4,0.79,0.2,Asia,Cold,1,0.79,0.2,1,1
+person229,4,Africa,Tropical,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,6,1
+person230,5,Africa,Tropical,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,1
+person231,6,Africa,Tropical,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,1
+person232,1,Africa,Tropical,4,0.79,0.2,Asia,Arid,3,0.79,0.2,3,0
+person233,2,Africa,Tropical,4,0.79,0.2,Asia,Arid,3,0.79,0.2,5,1
+person234,3,Africa,Tropical,4,0.79,0.2,Asia,Arid,3,0.79,0.2,9,1
+person235,4,Africa,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,0
+person236,5,Africa,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,9,0
+person237,6,Africa,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,1,0
+person238,1,Africa,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,0
+person239,2,Africa,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,6,2
+person240,3,Africa,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,10,2
+person241,4,Africa,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,4,2
+person242,5,Africa,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,6,2
+person243,6,Africa,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,9,2
+person244,1,Africa,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,9,2
+person245,2,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,2
+person246,3,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,1
+person247,4,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,2
+person248,5,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,2
+person249,6,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,2
+person250,1,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,2
+person251,2,Africa,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,1
+person252,3,Africa,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,2,1
+person253,4,Africa,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,9,2
+person254,5,Africa,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,10,2
+person255,6,Africa,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,9,2
+person256,1,Africa,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,9,2
+person257,2,Africa,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,9,2
+person258,3,Africa,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,2,1
+person259,4,Africa,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,4,1
+person260,5,Africa,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,9,2
+person261,6,Africa,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,4,1
+person262,1,Africa,Tropical,4,0.79,0.2,North America,Tropical,3,0.79,0.2,3,0
+person263,2,Africa,Tropical,4,0.79,0.2,North America,Tropical,3,0.79,0.2,10,1
+person264,3,Africa,Tropical,4,0.79,0.2,North America,Tropical,3,0.79,0.2,8,1
+person265,4,Africa,Tropical,4,0.79,0.2,South America,Temperate,2,0.79,0.2,3,1
+person266,5,Africa,Tropical,4,0.79,0.2,South America,Temperate,2,0.79,0.2,3,1
+person267,6,Africa,Tropical,4,0.79,0.2,South America,Temperate,2,0.79,0.2,3,1
+person268,1,Africa,Tropical,4,0.79,0.2,South America,Temperate,2,0.79,0.2,7,2
+person269,2,Africa,Tropical,4,0.79,0.2,South America,Arid,3,0.79,0.2,7,1
+person270,3,Africa,Tropical,4,0.79,0.2,South America,Arid,3,0.79,0.2,5,1
+person271,4,Africa,Tropical,4,0.79,0.2,South America,Arid,3,0.79,0.2,9,1
+person272,5,Africa,Tropical,4,0.79,0.2,South America,Arid,3,0.79,0.2,10,1
+person273,6,Africa,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,3,0
+person274,1,Africa,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,10,0
+person275,2,Africa,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,7,0
+person276,3,Africa,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,3,0
+person277,4,Africa,Tropical,4,0.79,0.2,South America,Tropical,4,0.79,0.2,8,0
+person278,5,Africa,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,1,1
+person279,6,Africa,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,1
+person280,1,Africa,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,5,1
+person281,2,Africa,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,9,2
+person282,3,Africa,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,2
+person283,4,Africa,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,2,1
+person284,5,Africa,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,9,2
+person285,6,Africa,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,7,2
+person286,1,Africa,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,3,1
+person287,2,Africa,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,1
+person288,3,Africa,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,9,1
+person289,4,Africa,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,6,1
+person290,5,Africa,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,4,1
+person291,6,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,2
+person292,1,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person293,2,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,2
+person294,3,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,1
+person295,4,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,2
+person296,5,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,2
+person297,6,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,2
+person298,1,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,1
+person299,2,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,2
+person300,3,Africa,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person301,1,Europe,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,9,0
+person302,2,Europe,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,4,0
+person303,3,Europe,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,3,0
+person304,4,Europe,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,0
+person305,5,Europe,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,9,-1
+person306,6,Europe,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,2,0
+person307,1,Europe,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,6,-1
+person308,2,Europe,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,7,-2
+person309,3,Europe,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,1,-1
+person310,4,Europe,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-3
+person311,5,Europe,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,8,-3
+person312,6,Europe,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,-2
+person313,1,Europe,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,8,-3
+person314,2,Europe,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-3
+person315,3,Europe,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-3
+person316,4,Europe,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,1,-2
+person317,5,Europe,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,8,-3
+person318,6,Europe,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,3,-2
+person319,1,Europe,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-3
+person320,2,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-3
+person321,3,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-3
+person322,4,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-3
+person323,5,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-2
+person324,6,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,5,-2
+person325,1,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-2
+person326,2,Europe,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-3
+person327,3,Europe,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,9,0
+person328,4,Europe,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,9,0
+person329,5,Europe,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,9,0
+person330,6,Europe,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,5,0
+person331,1,Europe,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,2,0
+person332,2,Europe,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,8,0
+person333,3,Europe,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,4,0
+person334,4,Europe,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,5,-1
+person335,5,Europe,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,1,0
+person336,6,Europe,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,4,-1
+person337,1,Europe,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,5,-1
+person338,2,Europe,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,10,-2
+person339,3,Europe,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,2,-1
+person340,4,Europe,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,9,-1
+person341,5,Europe,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,1,0
+person342,6,Europe,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,2,0
+person343,1,Europe,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person344,2,Europe,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,1,-1
+person345,3,Europe,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,8,-2
+person346,4,Europe,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,2,-1
+person347,5,Europe,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,10,-2
+person348,6,Europe,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,5,-2
+person349,1,Europe,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,7,-3
+person350,2,Europe,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,8,-3
+person351,3,Europe,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,9,-3
+person352,4,Europe,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,4,-2
+person353,5,Europe,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,8,-1
+person354,6,Europe,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,4,-1
+person355,1,Europe,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,4,-1
+person356,2,Europe,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,1,0
+person357,3,Europe,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,0
+person358,4,Europe,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person359,5,Europe,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,7,-1
+person360,6,Europe,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,9,-1
+person361,1,Europe,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person362,2,Europe,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,5,-1
+person363,3,Europe,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,8,-2
+person364,4,Europe,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,10,-2
+person365,5,Europe,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,8,-2
+person366,6,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,0
+person367,1,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person368,2,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,0
+person369,3,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,0
+person370,4,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,0
+person371,5,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person372,6,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,0
+person373,1,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,0
+person374,2,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,0
+person375,3,Europe,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,0
+person376,1,Europe,Temperate,1,0.79,0.2,Asia,Cold,1,0.79,0.2,9,0
+person377,2,Europe,Temperate,1,0.79,0.2,Asia,Cold,1,0.79,0.2,10,0
+person378,3,Europe,Temperate,1,0.79,0.2,Asia,Cold,1,0.79,0.2,3,0
+person379,4,Europe,Temperate,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,0
+person380,5,Europe,Temperate,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,10,-1
+person381,6,Europe,Temperate,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,5,-1
+person382,1,Europe,Temperate,1,0.79,0.2,Asia,Arid,3,0.79,0.2,5,-1
+person383,2,Europe,Temperate,1,0.79,0.2,Asia,Arid,3,0.79,0.2,1,-1
+person384,3,Europe,Temperate,1,0.79,0.2,Asia,Arid,3,0.79,0.2,3,-1
+person385,4,Europe,Temperate,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,7,-3
+person386,5,Europe,Temperate,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,9,-3
+person387,6,Europe,Temperate,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-3
+person388,1,Europe,Temperate,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,2,-2
+person389,2,Europe,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,2,-2
+person390,3,Europe,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,3,-2
+person391,4,Europe,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-3
+person392,5,Europe,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-3
+person393,6,Europe,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,9,-3
+person394,1,Europe,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,8,-3
+person395,2,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,-2
+person396,3,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-2
+person397,4,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-3
+person398,5,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-2
+person399,6,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,10,-3
+person400,1,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-3
+person401,2,Europe,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-3
+person402,3,Europe,Temperate,1,0.79,0.2,North America,Cold,1,0.79,0.2,4,0
+person403,4,Europe,Temperate,1,0.79,0.2,North America,Cold,1,0.79,0.2,3,0
+person404,5,Europe,Temperate,1,0.79,0.2,North America,Cold,1,0.79,0.2,1,0
+person405,6,Europe,Temperate,1,0.79,0.2,North America,Temperate,1,0.79,0.2,5,0
+person406,1,Europe,Temperate,1,0.79,0.2,North America,Temperate,1,0.79,0.2,6,0
+person407,2,Europe,Temperate,1,0.79,0.2,North America,Temperate,1,0.79,0.2,2,0
+person408,3,Europe,Temperate,1,0.79,0.2,North America,Temperate,1,0.79,0.2,4,0
+person409,4,Europe,Temperate,1,0.79,0.2,North America,Arid,2,0.79,0.2,9,-1
+person410,5,Europe,Temperate,1,0.79,0.2,North America,Arid,2,0.79,0.2,6,-1
+person411,6,Europe,Temperate,1,0.79,0.2,North America,Arid,2,0.79,0.2,10,-1
+person412,1,Europe,Temperate,1,0.79,0.2,North America,Tropical,3,0.79,0.2,5,-1
+person413,2,Europe,Temperate,1,0.79,0.2,North America,Tropical,3,0.79,0.2,4,-1
+person414,3,Europe,Temperate,1,0.79,0.2,North America,Tropical,3,0.79,0.2,10,-2
+person415,4,Europe,Temperate,1,0.79,0.2,South America,Temperate,2,0.79,0.2,6,-1
+person416,5,Europe,Temperate,1,0.79,0.2,South America,Temperate,2,0.79,0.2,6,-1
+person417,6,Europe,Temperate,1,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person418,1,Europe,Temperate,1,0.79,0.2,South America,Temperate,2,0.79,0.2,1,0
+person419,2,Europe,Temperate,1,0.79,0.2,South America,Arid,3,0.79,0.2,2,-1
+person420,3,Europe,Temperate,1,0.79,0.2,South America,Arid,3,0.79,0.2,1,-1
+person421,4,Europe,Temperate,1,0.79,0.2,South America,Arid,3,0.79,0.2,6,-1
+person422,5,Europe,Temperate,1,0.79,0.2,South America,Arid,3,0.79,0.2,7,-2
+person423,6,Europe,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,2,-2
+person424,1,Europe,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,7,-3
+person425,2,Europe,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,9,-3
+person426,3,Europe,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,3,-2
+person427,4,Europe,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-2
+person428,5,Europe,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,-1
+person429,6,Europe,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,-1
+person430,1,Europe,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,9,-1
+person431,2,Europe,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,0
+person432,3,Europe,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,10,-1
+person433,4,Europe,Temperate,1,0.79,0.2,Australia,Arid,2,0.79,0.2,1,0
+person434,5,Europe,Temperate,1,0.79,0.2,Australia,Arid,2,0.79,0.2,3,0
+person435,6,Europe,Temperate,1,0.79,0.2,Australia,Arid,2,0.79,0.2,7,-1
+person436,1,Europe,Temperate,1,0.79,0.2,Australia,Arid,2,0.79,0.2,9,-1
+person437,2,Europe,Temperate,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,8,-2
+person438,3,Europe,Temperate,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,10,-2
+person439,4,Europe,Temperate,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,4,-1
+person440,5,Europe,Temperate,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,-2
+person441,6,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,0
+person442,1,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,0
+person443,2,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,0
+person444,3,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person445,4,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person446,5,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,0
+person447,6,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,0
+person448,1,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person449,2,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,0
+person450,3,Europe,Temperate,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,0
+person451,1,North America,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,4,0
+person452,2,North America,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,3,0
+person453,3,North America,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,7,-1
+person454,4,North America,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,6,-1
+person455,5,North America,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,1,-1
+person456,6,North America,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,1,-2
+person457,1,North America,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,-2
+person458,2,North America,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,1,-2
+person459,3,North America,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,2,-2
+person460,4,North America,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,1,-2
+person461,5,North America,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,-2
+person462,6,North America,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,-2
+person463,1,North America,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-2
+person464,2,North America,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-2
+person465,3,North America,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,6,-1
+person466,4,North America,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,10,-1
+person467,5,North America,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,-1
+person468,6,North America,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,10,-1
+person469,1,North America,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,1,0
+person470,2,North America,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,3,-1
+person471,3,North America,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,1,-1
+person472,4,North America,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,9,-1
+person473,5,North America,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,7,-1
+person474,6,North America,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,6,-1
+person475,1,North America,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,9,-2
+person476,2,North America,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,5,-2
+person477,3,North America,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,10,-3
+person478,4,North America,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,2,-2
+person479,5,North America,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,4,0
+person480,6,North America,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,5,0
+person481,1,North America,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,3,0
+person482,2,North America,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,0
+person483,3,North America,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,0
+person484,4,North America,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,0
+person485,5,North America,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,0
+person486,1,North America,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,0
+person487,2,North America,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,0
+person488,3,North America,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person489,4,North America,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person490,5,North America,Cold,1,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,0
+person491,6,North America,Temperate,1,0.79,0.2,Asia,Cold,1,0.79,0.2,1,0
+person492,1,North America,Temperate,1,0.79,0.2,Asia,Cold,1,0.79,0.2,9,0
+person493,2,North America,Temperate,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,3,0
+person494,3,North America,Temperate,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,6,-1
+person495,4,North America,Temperate,1,0.79,0.2,Asia,Arid,3,0.79,0.2,3,-1
+person496,5,North America,Temperate,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,4,-2
+person497,6,North America,Temperate,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,8,-3
+person498,1,North America,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,3,-2
+person499,2,North America,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,4,-2
+person500,3,North America,Temperate,1,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-3
+person501,4,North America,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-2
+person502,5,North America,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-3
+person503,6,North America,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-2
+person504,1,North America,Temperate,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-2
+person505,2,North America,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,8,-1
+person506,3,North America,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,10,-1
+person507,4,North America,Temperate,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,5,-1
+person508,5,North America,Temperate,1,0.79,0.2,Australia,Arid,2,0.79,0.2,4,-1
+person509,6,North America,Temperate,1,0.79,0.2,Australia,Arid,2,0.79,0.2,8,-1
+person510,1,North America,Temperate,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,8,-2
+person511,2,North America,Temperate,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,1,-1
+person512,3,North America,Temperate,1,0.79,0.2,South America,Temperate,2,0.79,0.2,10,-1
+person513,4,North America,Temperate,1,0.79,0.2,South America,Temperate,2,0.79,0.2,8,-1
+person514,5,North America,Temperate,1,0.79,0.2,South America,Arid,3,0.79,0.2,5,-1
+person515,6,North America,Temperate,1,0.79,0.2,South America,Arid,3,0.79,0.2,10,-2
+person516,6,North America,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-2
+person517,1,North America,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,5,-2
+person518,2,North America,Temperate,1,0.79,0.2,South America,Tropical,4,0.79,0.2,9,-3
+person519,3,North America,Temperate,1,0.79,0.2,Europe,Cold,1,0.79,0.2,2,0
+person520,4,North America,Temperate,1,0.79,0.2,Europe,Cold,1,0.79,0.2,9,0
+person521,5,North America,Temperate,1,0.79,0.2,Europe,Cold,1,0.79,0.2,3,0
+person522,6,North America,Temperate,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,6,0
+person523,1,North America,Temperate,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,0
+person524,2,North America,Temperate,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,0
+person525,3,North America,Temperate,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,0
+person526,1,North America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person527,2,North America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person528,3,North America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,-1
+person529,4,North America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,-1
+person530,5,North America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,-2
+person531,6,North America,Arid,2,0.79,0.2,Asia,Cold,1,0.79,0.2,2,0
+person532,1,North America,Arid,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,0
+person533,2,North America,Arid,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,4,0
+person534,3,North America,Arid,2,0.79,0.2,Asia,Arid,3,0.79,0.2,6,-1
+person535,4,North America,Arid,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,2,-1
+person536,5,North America,Arid,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,-1
+person537,6,North America,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,4,-2
+person538,1,North America,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,9,-2
+person539,2,North America,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,6,-2
+person540,3,North America,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-2
+person541,4,North America,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-2
+person542,5,North America,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,10,-2
+person543,6,North America,Arid,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,0
+person544,1,North America,Arid,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,6,0
+person545,2,North America,Arid,2,0.79,0.2,Australia,Arid,2,0.79,0.2,4,0
+person546,3,North America,Arid,2,0.79,0.2,Australia,Arid,2,0.79,0.2,4,0
+person547,4,North America,Arid,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,6,-1
+person548,5,North America,Arid,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,9,-2
+person549,6,North America,Arid,2,0.79,0.2,South America,Temperate,2,0.79,0.2,9,0
+person550,1,North America,Arid,2,0.79,0.2,South America,Temperate,2,0.79,0.2,1,0
+person551,2,North America,Arid,2,0.79,0.2,South America,Arid,3,0.79,0.2,3,0
+person552,3,North America,Arid,2,0.79,0.2,South America,Arid,3,0.79,0.2,1,0
+person553,4,North America,Arid,2,0.79,0.2,South America,Tropical,4,0.79,0.2,10,-2
+person554,5,North America,Arid,2,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-1
+person555,6,North America,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,5,-1
+person556,1,North America,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,3,0
+person557,2,North America,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,10,-2
+person558,3,North America,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,-2
+person559,4,North America,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,-1
+person560,5,North America,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,-2
+person561,1,North America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person562,2,North America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person563,3,North America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,1
+person564,4,North America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,6,1
+person565,5,North America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person566,6,North America,Tropical,3,0.79,0.2,Asia,Cold,1,0.79,0.2,7,2
+person567,1,North America,Tropical,3,0.79,0.2,Asia,Temperate,2,0.79,0.2,2,0
+person568,2,North America,Tropical,3,0.79,0.2,Asia,Temperate,2,0.79,0.2,7,1
+person569,3,North America,Tropical,3,0.79,0.2,Asia,Arid,3,0.79,0.2,2,0
+person570,4,North America,Tropical,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-1
+person571,5,North America,Tropical,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-1
+person572,6,North America,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-1
+person573,1,North America,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,4,-1
+person574,2,North America,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-1
+person575,3,North America,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-1
+person576,4,North America,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,5,-1
+person577,5,North America,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-1
+person578,6,North America,Tropical,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,4,1
+person579,1,North America,Tropical,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,2,0
+person580,2,North America,Tropical,3,0.79,0.2,Australia,Arid,2,0.79,0.2,5,1
+person581,3,North America,Tropical,3,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person582,4,North America,Tropical,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,9,0
+person583,5,North America,Tropical,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,3,0
+person584,6,North America,Tropical,3,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person585,1,North America,Tropical,3,0.79,0.2,South America,Temperate,2,0.79,0.2,4,1
+person586,2,North America,Tropical,3,0.79,0.2,South America,Arid,3,0.79,0.2,7,0
+person587,3,North America,Tropical,3,0.79,0.2,South America,Arid,3,0.79,0.2,3,0
+person588,4,North America,Tropical,3,0.79,0.2,South America,Tropical,4,0.79,0.2,8,-1
+person589,5,North America,Tropical,3,0.79,0.2,South America,Tropical,4,0.79,0.2,6,-1
+person590,6,North America,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,4,1
+person591,6,North America,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,1,1
+person592,1,North America,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,7,2
+person593,2,North America,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,2
+person594,3,North America,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,1
+person595,4,North America,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,2
+person596,5,North America,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person597,6,North America,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person598,1,North America,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,2
+person599,2,North America,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,2
+person600,3,North America,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,2
+person601,1,South America,Temperate,2,0.79,0.2,Asia,Cold,1,0.79,0.2,2,0
+person602,2,South America,Temperate,2,0.79,0.2,Asia,Cold,1,0.79,0.2,1,0
+person603,3,South America,Temperate,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,8,0
+person604,4,South America,Temperate,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,2,0
+person605,5,South America,Temperate,2,0.79,0.2,Asia,Arid,3,0.79,0.2,10,-2
+person606,6,South America,Temperate,2,0.79,0.2,Asia,Arid,3,0.79,0.2,5,-1
+person607,1,South America,Temperate,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,5,-2
+person608,2,South America,Temperate,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,6,-2
+person609,3,South America,Temperate,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,4,-2
+person610,4,South America,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,4,-1
+person611,5,South America,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,10,-2
+person612,6,South America,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,2,0
+person613,1,South America,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,7,-2
+person614,2,South America,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,-2
+person615,3,South America,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,-2
+person616,4,South America,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,0
+person617,5,South America,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,0
+person618,6,South America,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,0
+person619,1,South America,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,3,-1
+person620,2,South America,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-2
+person621,3,South America,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,3,-1
+person622,4,South America,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,3,-1
+person623,5,South America,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-2
+person624,6,South America,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-2
+person625,1,South America,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-1
+person626,2,South America,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,9,-2
+person627,3,South America,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,-1
+person628,4,South America,Temperate,2,0.79,0.2,North America,Cold,1,0.79,0.2,7,-2
+person629,5,South America,Temperate,2,0.79,0.2,North America,Cold,1,0.79,0.2,3,0
+person630,6,South America,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,7,-2
+person631,1,South America,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,3,0
+person632,2,South America,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,10,-2
+person633,3,South America,Temperate,2,0.79,0.2,North America,Arid,2,0.79,0.2,4,0
+person634,4,South America,Temperate,2,0.79,0.2,North America,Arid,2,0.79,0.2,6,0
+person635,5,South America,Temperate,2,0.79,0.2,North America,Tropical,3,0.79,0.2,8,-2
+person636,6,South America,Temperate,2,0.79,0.2,North America,Tropical,3,0.79,0.2,4,-1
+person637,1,South America,Temperate,2,0.79,0.2,Australia,Arid,2,0.79,0.2,10,0
+person638,2,South America,Temperate,2,0.79,0.2,Australia,Arid,2,0.79,0.2,7,0
+person639,3,South America,Temperate,2,0.79,0.2,Australia,Arid,2,0.79,0.2,1,0
+person640,4,South America,Temperate,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,0
+person641,5,South America,Temperate,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,9,0
+person642,6,South America,Temperate,2,0.79,0.2,Australia,Temperate,2,0.79,0.2,8,0
+person643,1,South America,Temperate,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,5,-1
+person644,2,South America,Temperate,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,3,0
+person645,3,South America,Temperate,2,0.79,0.2,Australia,Tropical,3,0.79,0.2,4,-1
+person646,4,South America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,0
+person647,5,South America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,-2
+person648,6,South America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,-2
+person649,1,South America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,0
+person650,2,South America,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,-2
+person651,1,South America,Arid,3,0.79,0.2,Asia,Cold,1,0.79,0.2,2,1
+person652,2,South America,Arid,3,0.79,0.2,Asia,Cold,1,0.79,0.2,2,1
+person653,3,South America,Arid,3,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,0
+person654,4,South America,Arid,3,0.79,0.2,Asia,Temperate,2,0.79,0.2,5,1
+person655,5,South America,Arid,3,0.79,0.2,Asia,Arid,3,0.79,0.2,8,0
+person656,6,South America,Arid,3,0.79,0.2,Asia,Arid,3,0.79,0.2,7,0
+person657,3,South America,Arid,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,6,-1
+person658,4,South America,Arid,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,9,-1
+person659,5,South America,Arid,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,5,-1
+person660,6,South America,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,6,1
+person661,1,South America,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,8,2
+person662,2,South America,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,9,2
+person663,3,South America,Arid,3,0.79,0.2,Europe,Cold,1,0.79,0.2,7,2
+person664,4,South America,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,8,2
+person665,5,South America,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,1
+person666,6,South America,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,1
+person667,1,South America,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,1
+person668,2,South America,Arid,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,1
+person669,3,South America,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-1
+person670,4,South America,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-1
+person671,5,South America,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-1
+person672,6,South America,Arid,3,0.79,0.2,Africa,Arid,4,0.79,0.2,2,0
+person673,1,South America,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-1
+person674,2,South America,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,0
+person675,3,South America,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-1
+person676,4,South America,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,0
+person677,5,South America,Arid,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,0
+person678,6,South America,Arid,3,0.79,0.2,North America,Cold,1,0.79,0.2,2,1
+person679,1,South America,Arid,3,0.79,0.2,North America,Cold,1,0.79,0.2,6,1
+person680,2,South America,Arid,3,0.79,0.2,North America,Temperate,1,0.79,0.2,5,1
+person681,3,South America,Arid,3,0.79,0.2,North America,Temperate,1,0.79,0.2,2,1
+person682,4,South America,Arid,3,0.79,0.2,North America,Temperate,1,0.79,0.2,7,2
+person683,5,South America,Arid,3,0.79,0.2,North America,Arid,2,0.79,0.2,1,0
+person684,6,South America,Arid,3,0.79,0.2,North America,Arid,2,0.79,0.2,4,1
+person685,1,South America,Arid,3,0.79,0.2,North America,Tropical,3,0.79,0.2,3,0
+person686,2,South America,Arid,3,0.79,0.2,North America,Tropical,3,0.79,0.2,10,0
+person687,3,South America,Arid,3,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person688,4,South America,Arid,3,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person689,5,South America,Arid,3,0.79,0.2,Australia,Arid,2,0.79,0.2,9,1
+person690,6,South America,Arid,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,1,0
+person691,1,South America,Arid,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,8,1
+person692,2,South America,Arid,3,0.79,0.2,Australia,Temperate,2,0.79,0.2,1,0
+person693,3,South America,Arid,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,6,0
+person694,4,South America,Arid,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,0
+person695,5,South America,Arid,3,0.79,0.2,Australia,Tropical,3,0.79,0.2,2,0
+person696,6,South America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,1
+person697,1,South America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,5,1
+person698,2,South America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,1
+person699,3,South America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,2
+person700,4,South America,Arid,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,1
+person701,1,South America,Tropical,4,0.79,0.2,Asia,Cold,1,0.79,0.2,1,1
+person702,2,South America,Tropical,4,0.79,0.2,Asia,Cold,1,0.79,0.2,5,2
+person703,3,South America,Tropical,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,10,2
+person704,4,South America,Tropical,4,0.79,0.2,Asia,Temperate,2,0.79,0.2,6,1
+person705,5,South America,Tropical,4,0.79,0.2,Asia,Arid,3,0.79,0.2,4,1
+person706,6,South America,Tropical,4,0.79,0.2,Asia,Arid,3,0.79,0.2,4,1
+person707,5,South America,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,1,0
+person708,6,South America,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,0
+person709,1,South America,Tropical,4,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,0
+person710,2,South America,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,4,2
+person711,3,South America,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,5,2
+person712,4,South America,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,10,2
+person713,5,South America,Tropical,4,0.79,0.2,Europe,Cold,1,0.79,0.2,2,1
+person714,6,South America,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,2
+person715,1,South America,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,2
+person716,2,South America,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,1
+person717,3,South America,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,2
+person718,4,South America,Tropical,4,0.79,0.2,Europe,Temperate,1,0.79,0.2,6,2
+person719,5,South America,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,9,0
+person720,6,South America,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,6,0
+person721,1,South America,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,2,0
+person722,2,South America,Tropical,4,0.79,0.2,Africa,Arid,4,0.79,0.2,10,0
+person723,3,South America,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,0
+person724,4,South America,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,9,0
+person725,5,South America,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,0
+person726,6,South America,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,0
+person727,1,South America,Tropical,4,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,0
+person728,2,South America,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,7,2
+person729,3,South America,Tropical,4,0.79,0.2,North America,Cold,1,0.79,0.2,2,1
+person730,4,South America,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,1,1
+person731,5,South America,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,6,2
+person732,6,South America,Tropical,4,0.79,0.2,North America,Temperate,1,0.79,0.2,9,2
+person733,1,South America,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,2,1
+person734,2,South America,Tropical,4,0.79,0.2,North America,Arid,2,0.79,0.2,1,1
+person735,3,South America,Tropical,4,0.79,0.2,North America,Tropical,3,0.79,0.2,8,1
+person736,4,South America,Tropical,4,0.79,0.2,North America,Tropical,3,0.79,0.2,3,0
+person737,5,South America,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,3,1
+person738,6,South America,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,5,1
+person739,1,South America,Tropical,4,0.79,0.2,Australia,Arid,2,0.79,0.2,4,1
+person740,2,South America,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,9,2
+person741,3,South America,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,1
+person742,4,South America,Tropical,4,0.79,0.2,Australia,Temperate,2,0.79,0.2,8,2
+person743,5,South America,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,6,1
+person744,6,South America,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,7,1
+person745,1,South America,Tropical,4,0.79,0.2,Australia,Tropical,3,0.79,0.2,6,1
+person746,2,South America,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,1
+person747,3,South America,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,1
+person748,4,South America,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,1
+person749,5,South America,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person750,6,South America,Tropical,4,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,1
+person751,1,Australia,Temperate,2,0.79,0.2,Asia,Cold,1,0.79,0.2,4,-1
+person752,2,Australia,Temperate,2,0.79,0.2,Asia,Cold,1,0.79,0.2,2,0
+person753,3,Australia,Temperate,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,2,0
+person754,4,Australia,Temperate,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,7,0
+person755,5,Australia,Temperate,2,0.79,0.2,Asia,Arid,3,0.79,0.2,2,0
+person756,6,Australia,Temperate,2,0.79,0.2,Asia,Arid,3,0.79,0.2,8,-2
+person757,1,Australia,Temperate,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-2
+person758,2,Australia,Temperate,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,9,-2
+person759,3,Australia,Temperate,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,7,-2
+person760,4,Australia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,1,0
+person761,5,Australia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,8,-2
+person762,6,Australia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,4,-1
+person763,1,Australia,Temperate,2,0.79,0.2,Europe,Cold,1,0.79,0.2,5,-1
+person764,2,Australia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,-2
+person765,3,Australia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,-2
+person766,4,Australia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,0
+person767,5,Australia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,6,-1
+person768,6,Australia,Temperate,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,6,-1
+person769,1,Australia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,8,-2
+person770,2,Australia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-2
+person771,3,Australia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-2
+person772,4,Australia,Temperate,2,0.79,0.2,Africa,Arid,4,0.79,0.2,2,-1
+person773,5,Australia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,9,-2
+person774,6,Australia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-2
+person775,1,Australia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-1
+person776,2,Australia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-1
+person777,3,Australia,Temperate,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,-1
+person778,4,Australia,Temperate,2,0.79,0.2,North America,Cold,1,0.79,0.2,1,0
+person779,5,Australia,Temperate,2,0.79,0.2,North America,Cold,1,0.79,0.2,7,-2
+person780,6,Australia,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,1,0
+person781,1,Australia,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,5,-1
+person782,2,Australia,Temperate,2,0.79,0.2,North America,Temperate,1,0.79,0.2,9,-2
+person783,3,Australia,Temperate,2,0.79,0.2,North America,Arid,2,0.79,0.2,9,0
+person784,4,Australia,Temperate,2,0.79,0.2,North America,Arid,2,0.79,0.2,4,0
+person785,5,Australia,Temperate,2,0.79,0.2,North America,Tropical,3,0.79,0.2,7,-2
+person786,6,Australia,Temperate,2,0.79,0.2,North America,Tropical,3,0.79,0.2,4,-1
+person787,1,Australia,Temperate,2,0.79,0.2,South America,Arid,3,0.79,0.2,8,-2
+person788,2,Australia,Temperate,2,0.79,0.2,South America,Arid,3,0.79,0.2,5,-1
+person789,3,Australia,Temperate,2,0.79,0.2,South America,Arid,3,0.79,0.2,1,0
+person790,4,Australia,Temperate,2,0.79,0.2,South America,Temperate,2,0.79,0.2,5,0
+person791,5,Australia,Temperate,2,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person792,6,Australia,Temperate,2,0.79,0.2,South America,Temperate,2,0.79,0.2,7,0
+person793,1,Australia,Temperate,2,0.79,0.2,South America,Tropical,4,0.79,0.2,9,-2
+person794,2,Australia,Temperate,2,0.79,0.2,South America,Tropical,4,0.79,0.2,2,-1
+person795,3,Australia,Temperate,2,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-1
+person796,4,Australia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,0
+person797,5,Australia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,2,0
+person798,6,Australia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,9,-2
+person799,1,Australia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person800,2,Australia,Temperate,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,1,0
+person801,1,Australia,Arid,2,0.79,0.2,Asia,Cold,1,0.79,0.2,1,0
+person802,2,Australia,Arid,2,0.79,0.2,Asia,Cold,1,0.79,0.2,8,-2
+person803,3,Australia,Arid,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,6,0
+person804,4,Australia,Arid,2,0.79,0.2,Asia,Temperate,2,0.79,0.2,6,0
+person805,5,Australia,Arid,2,0.79,0.2,Asia,Arid,3,0.79,0.2,10,-2
+person806,6,Australia,Arid,2,0.79,0.2,Asia,Arid,3,0.79,0.2,7,-2
+person807,1,Australia,Arid,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,8,-2
+person808,2,Australia,Arid,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,2,-1
+person809,3,Australia,Arid,2,0.79,0.2,Asia,Tropical,4,0.79,0.2,1,-1
+person810,4,Australia,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,9,-2
+person811,5,Australia,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,10,-2
+person812,6,Australia,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,6,-1
+person813,1,Australia,Arid,2,0.79,0.2,Europe,Cold,1,0.79,0.2,1,0
+person814,2,Australia,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,6,-1
+person815,3,Australia,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,0
+person816,4,Australia,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,1,0
+person817,5,Australia,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,0
+person818,6,Australia,Arid,2,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,-1
+person819,1,Australia,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,9,-2
+person820,2,Australia,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-2
+person821,3,Australia,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,9,-2
+person822,4,Australia,Arid,2,0.79,0.2,Africa,Arid,4,0.79,0.2,1,-1
+person823,5,Australia,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,10,-2
+person824,6,Australia,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-2
+person825,1,Australia,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,10,-2
+person826,2,Australia,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-2
+person827,3,Australia,Arid,2,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-2
+person828,4,Australia,Arid,2,0.79,0.2,North America,Cold,1,0.79,0.2,9,-2
+person829,5,Australia,Arid,2,0.79,0.2,North America,Cold,1,0.79,0.2,9,-2
+person830,6,Australia,Arid,2,0.79,0.2,North America,Temperate,1,0.79,0.2,9,-2
+person831,1,Australia,Arid,2,0.79,0.2,North America,Temperate,1,0.79,0.2,3,0
+person832,2,Australia,Arid,2,0.79,0.2,North America,Temperate,1,0.79,0.2,9,-2
+person833,3,Australia,Arid,2,0.79,0.2,North America,Arid,2,0.79,0.2,4,0
+person834,4,Australia,Arid,2,0.79,0.2,North America,Arid,2,0.79,0.2,4,0
+person835,5,Australia,Arid,2,0.79,0.2,North America,Tropical,3,0.79,0.2,4,-1
+person836,6,Australia,Arid,2,0.79,0.2,North America,Tropical,3,0.79,0.2,1,0
+person837,1,Australia,Arid,2,0.79,0.2,South America,Arid,3,0.79,0.2,2,0
+person838,2,Australia,Arid,2,0.79,0.2,South America,Arid,3,0.79,0.2,9,-2
+person839,3,Australia,Arid,2,0.79,0.2,South America,Arid,3,0.79,0.2,10,-2
+person840,4,Australia,Arid,2,0.79,0.2,South America,Temperate,2,0.79,0.2,9,0
+person841,5,Australia,Arid,2,0.79,0.2,South America,Temperate,2,0.79,0.2,9,0
+person842,6,Australia,Arid,2,0.79,0.2,South America,Temperate,2,0.79,0.2,9,0
+person843,1,Australia,Arid,2,0.79,0.2,South America,Tropical,4,0.79,0.2,2,-1
+person844,2,Australia,Arid,2,0.79,0.2,South America,Tropical,4,0.79,0.2,4,-2
+person845,3,Australia,Arid,2,0.79,0.2,South America,Tropical,4,0.79,0.2,9,-2
+person846,4,Australia,Arid,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,4,-1
+person847,5,Australia,Arid,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person848,6,Australia,Arid,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,-2
+person849,1,Australia,Arid,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,-2
+person850,2,Australia,Arid,2,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,0
+person851,1,Australia,Tropical,3,0.79,0.2,Asia,Cold,1,0.79,0.2,3,1
+person852,2,Australia,Tropical,3,0.79,0.2,Asia,Cold,1,0.79,0.2,3,1
+person853,3,Australia,Tropical,3,0.79,0.2,Asia,Temperate,2,0.79,0.2,7,1
+person854,4,Australia,Tropical,3,0.79,0.2,Asia,Temperate,2,0.79,0.2,7,1
+person855,5,Australia,Tropical,3,0.79,0.2,Asia,Arid,3,0.79,0.2,5,0
+person856,6,Australia,Tropical,3,0.79,0.2,Asia,Arid,3,0.79,0.2,9,0
+person857,1,Australia,Tropical,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-1
+person858,2,Australia,Tropical,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,3,0
+person859,3,Australia,Tropical,3,0.79,0.2,Asia,Tropical,4,0.79,0.2,10,-1
+person860,4,Australia,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,7,2
+person861,5,Australia,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,3,1
+person862,6,Australia,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,8,2
+person863,1,Australia,Tropical,3,0.79,0.2,Europe,Cold,1,0.79,0.2,1,1
+person864,2,Australia,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,3,1
+person865,3,Australia,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,1
+person866,4,Australia,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,2
+person867,5,Australia,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,2
+person868,6,Australia,Tropical,3,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,1
+person869,1,Australia,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,9,-1
+person870,2,Australia,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-1
+person871,3,Australia,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,3,0
+person872,4,Australia,Tropical,3,0.79,0.2,Africa,Arid,4,0.79,0.2,7,-1
+person873,5,Australia,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,9,-1
+person874,6,Australia,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,6,-1
+person875,1,Australia,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-1
+person876,2,Australia,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,4,-1
+person877,3,Australia,Tropical,3,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,0
+person878,4,Australia,Tropical,3,0.79,0.2,North America,Cold,1,0.79,0.2,4,1
+person879,5,Australia,Tropical,3,0.79,0.2,North America,Cold,1,0.79,0.2,1,1
+person880,6,Australia,Tropical,3,0.79,0.2,North America,Temperate,1,0.79,0.2,10,2
+person881,1,Australia,Tropical,3,0.79,0.2,North America,Temperate,1,0.79,0.2,5,1
+person882,2,Australia,Tropical,3,0.79,0.2,North America,Temperate,1,0.79,0.2,9,2
+person883,3,Australia,Tropical,3,0.79,0.2,North America,Arid,2,0.79,0.2,3,0
+person884,4,Australia,Tropical,3,0.79,0.2,North America,Arid,2,0.79,0.2,5,1
+person885,5,Australia,Tropical,3,0.79,0.2,North America,Tropical,3,0.79,0.2,2,0
+person886,6,Australia,Tropical,3,0.79,0.2,North America,Tropical,3,0.79,0.2,9,0
+person887,1,Australia,Tropical,3,0.79,0.2,South America,Arid,3,0.79,0.2,4,0
+person888,2,Australia,Tropical,3,0.79,0.2,South America,Arid,3,0.79,0.2,3,0
+person889,3,Australia,Tropical,3,0.79,0.2,South America,Arid,3,0.79,0.2,1,0
+person890,4,Australia,Tropical,3,0.79,0.2,South America,Temperate,2,0.79,0.2,9,1
+person891,5,Australia,Tropical,3,0.79,0.2,South America,Temperate,2,0.79,0.2,2,0
+person892,6,Australia,Tropical,3,0.79,0.2,South America,Temperate,2,0.79,0.2,6,1
+person893,1,Australia,Tropical,3,0.79,0.2,South America,Tropical,4,0.79,0.2,7,-1
+person894,2,Australia,Tropical,3,0.79,0.2,South America,Tropical,4,0.79,0.2,1,0
+person895,3,Australia,Tropical,3,0.79,0.2,South America,Tropical,4,0.79,0.2,10,-1
+person896,4,Australia,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person897,5,Australia,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,3,1
+person898,6,Australia,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,8,2
+person899,1,Australia,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,7,2
+person900,2,Australia,Tropical,3,0.79,0.2,Antarctica,Cold,1,0.79,0.2,10,2
+person901,1,Antarctica,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,1,0
+person902,2,Antarctica,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,8,0
+person903,3,Antarctica,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,3,0
+person904,4,Antarctica,Cold,1,0.79,0.2,Asia,Cold,1,0.79,0.2,7,0
+person905,5,Antarctica,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,8,-1
+person906,6,Antarctica,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,7,-1
+person907,1,Antarctica,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,8,-1
+person908,2,Antarctica,Cold,1,0.79,0.2,Asia,Temperate,2,0.79,0.2,1,0
+person909,3,Antarctica,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,5,-1
+person910,4,Antarctica,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,6,-1
+person911,5,Antarctica,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,8,-2
+person912,6,Antarctica,Cold,1,0.79,0.2,Asia,Arid,3,0.79,0.2,9,-2
+person913,1,Antarctica,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,9,-3
+person914,2,Antarctica,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,9,-3
+person915,3,Antarctica,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,5,-2
+person916,4,Antarctica,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,2,-2
+person917,5,Antarctica,Cold,1,0.79,0.2,Asia,Tropical,4,0.79,0.2,8,-3
+person918,6,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,4,-2
+person919,1,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,5,-2
+person920,2,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,1,-2
+person921,3,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,4,-2
+person922,4,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,5,-2
+person923,5,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,10,-3
+person924,6,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,2,-2
+person925,1,Antarctica,Cold,1,0.79,0.2,Africa,Arid,4,0.79,0.2,9,-3
+person926,2,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-2
+person927,3,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-2
+person928,4,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,3,-2
+person929,5,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,1,-2
+person930,6,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,8,-3
+person931,1,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,2,-2
+person932,2,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,10,-3
+person933,3,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,5,-2
+person934,4,Antarctica,Cold,1,0.79,0.2,Africa,Tropical,4,0.79,0.2,7,-3
+person935,5,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,8,0
+person936,6,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,9,0
+person937,1,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,4,0
+person938,2,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,8,0
+person939,3,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,4,0
+person940,4,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,4,0
+person941,5,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,1,0
+person942,6,Antarctica,Cold,1,0.79,0.2,Europe,Cold,1,0.79,0.2,3,0
+person943,1,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,0
+person944,2,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,7,0
+person945,3,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,9,0
+person946,4,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,2,0
+person947,5,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,5,0
+person948,6,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,8,0
+person949,1,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,10,0
+person950,2,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,8,0
+person951,3,Antarctica,Cold,1,0.79,0.2,Europe,Temperate,1,0.79,0.2,4,0
+person952,4,Antarctica,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,2,0
+person953,5,Antarctica,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,8,0
+person954,6,Antarctica,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,8,0
+person955,1,Antarctica,Cold,1,0.79,0.2,North America,Cold,1,0.79,0.2,8,0
+person956,2,Antarctica,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,2,0
+person957,3,Antarctica,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,6,0
+person958,4,Antarctica,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,4,0
+person959,5,Antarctica,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,4,0
+person960,6,Antarctica,Cold,1,0.79,0.2,North America,Temperate,1,0.79,0.2,4,0
+person961,1,Antarctica,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,9,-1
+person962,2,Antarctica,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,10,-1
+person963,3,Antarctica,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,3,0
+person964,4,Antarctica,Cold,1,0.79,0.2,North America,Arid,2,0.79,0.2,1,0
+person965,5,Antarctica,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,10,-2
+person966,6,Antarctica,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,5,-1
+person967,1,Antarctica,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,5,-1
+person968,2,Antarctica,Cold,1,0.79,0.2,North America,Tropical,3,0.79,0.2,1,-1
+person969,3,Antarctica,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,3,0
+person970,4,Antarctica,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,7,-1
+person971,5,Antarctica,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,9,-1
+person972,6,Antarctica,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,10,-1
+person973,1,Antarctica,Cold,1,0.79,0.2,South America,Temperate,2,0.79,0.2,2,0
+person974,2,Antarctica,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,2,-1
+person975,3,Antarctica,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,3,-1
+person976,4,Antarctica,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,7,-2
+person977,5,Antarctica,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,7,-2
+person978,6,Antarctica,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,9,-2
+person979,1,Antarctica,Cold,1,0.79,0.2,South America,Arid,3,0.79,0.2,8,-2
+person980,2,Antarctica,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,3,-2
+person981,3,Antarctica,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,4,-2
+person982,4,Antarctica,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,7,-3
+person983,5,Antarctica,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,1,-2
+person984,6,Antarctica,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,10,-3
+person985,1,Antarctica,Cold,1,0.79,0.2,South America,Tropical,4,0.79,0.2,8,-3
+person986,2,Antarctica,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,7,-1
+person987,3,Antarctica,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,4,-1
+person988,4,Antarctica,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,3,0
+person989,5,Antarctica,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,1,0
+person990,6,Antarctica,Cold,1,0.79,0.2,Australia,Temperate,2,0.79,0.2,5,-1
+person991,1,Antarctica,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,6,-1
+person992,2,Antarctica,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,2,0
+person993,3,Antarctica,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,4,-1
+person994,4,Antarctica,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,9,-1
+person995,5,Antarctica,Cold,1,0.79,0.2,Australia,Arid,2,0.79,0.2,6,-1
+person996,6,Antarctica,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,10,-2
+person997,1,Antarctica,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,5,-1
+person998,2,Antarctica,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,4,-1
+person999,3,Antarctica,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,10,-2
+person1000,4,Antarctica,Cold,1,0.79,0.2,Australia,Tropical,3,0.79,0.2,6,-1
